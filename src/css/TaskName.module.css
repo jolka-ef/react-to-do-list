@@ -1,0 +1,19 @@
+.Checkbox {
+  accent-color: var(--accentColor);
+  width: 22px;
+  height: 22px;
+}
+
+.Checkbox:checked + .Text {
+  text-decoration: line-through;
+  text-decoration-thickness: 4px;
+  text-decoration-color: var(--accentColor);
+  text-decoration-color: rgba(198, 23, 80, 0.58);
+  text-decoration-style: double;
+}
+
+.Text {
+  font-family: "CandidasaRegular";
+  font-size: 2.5em;
+  margin-left: 0.2em;
+}
