@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-to-do-list/static/css/main.0250d2af.css",
+    "main.js": "/react-to-do-list/static/js/main.d646e81c.js",
+    "static/js/787.e1fad09a.chunk.js": "/react-to-do-list/static/js/787.e1fad09a.chunk.js",
+    "static/media/CandidasaRegular.ttf": "/react-to-do-list/static/media/CandidasaRegular.e77e956adc6132e3c22f.ttf",
+    "index.html": "/react-to-do-list/index.html",
+    "main.0250d2af.css.map": "/react-to-do-list/static/css/main.0250d2af.css.map",
+    "main.d646e81c.js.map": "/react-to-do-list/static/js/main.d646e81c.js.map",
+    "787.e1fad09a.chunk.js.map": "/react-to-do-list/static/js/787.e1fad09a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0250d2af.css",
+    "static/js/main.d646e81c.js"
+  ]
+}
